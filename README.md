@@ -37,15 +37,15 @@ You are a security analyst at a financial services company. An alert is raised i
 
   - **Image 1: Legacy View**
 
-    ![chrome_QnyIg5thvH]()
+    ![chrome_QnyIg5thvH](https://github.com/user-attachments/assets/05fefaac-289b-43fc-8129-6b80f1b03e75)
 
   - **Image 2: VT View**
 
-    ![chrome_u1p0eD2S4u]()
+    ![chrome_u1p0eD2S4u](https://github.com/user-attachments/assets/6582e189-68b0-4ed5-a3e7-93059a2ad9fa)
 
   - **Image 3: IP Address `40.100.174.34`**
 
-    ![chrome_WS7N0VCXT1]()
+    ![chrome_WS7N0VCXT1](https://github.com/user-attachments/assets/aa812c10-364b-4e68-a447-8e1d1582c6ba)
 
 ### 3. Evaluate the Search Results (Legacy View)
 
